@@ -3,8 +3,23 @@
   [
     {
       "id": 1,
-      "firstname": "Alan",
-      "lastname": "Brito"
+      "firstname": "Apollo",
+      "lastname": "Creed"
+    },
+    {
+      "id": 2,
+      "firstname": "Ivan",
+      "lastname": "Drago"
+    },
+    {
+      "id": 3,
+      "firstname": "James Clubber",
+      "lastname": "Lang"
+    },
+    {
+      "id": 4,
+      "firstname": "Thunderlips",
+      "lastname": ""
     }
   ]
            
